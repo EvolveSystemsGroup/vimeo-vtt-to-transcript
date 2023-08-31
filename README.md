@@ -2,13 +2,13 @@
 
 Vimeo automatically transcribes your video and creates closed captions for it. You can download the subtitles as a .vtt file, but this isn't useful if you need a human-readable transcript.
 
-Subtitle files are designed to pack as many words onto one or two lines as possible, which often means splitting paragraphs in two, which makes it hard to read.
+Subtitle files are designed to pack as many words onto one or two lines as possible, which often means splitting paragraphs in two. This makes it hard to read.
 
-This page converts Vimeo's .vtt subtitle files to a readable transcript file.
+This page converts Vimeo's .vtt subtitle files to a readable transcript.
 
 ## Using The Converter
 
-This converter has been deployed on this page: https://evolvepreneur.app/page/vimeo-vtt-to-transcript
+This converter has been deployed on this page for you to use: https://evolvepreneur.app/page/vimeo-vtt-to-transcript
 
 ## How To Obtain The .vtt File
 
